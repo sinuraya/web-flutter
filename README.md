@@ -2,14 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
+## How to run
 
-This project is a starting point for a Flutter application.
+- Make sure you have installed Android SDK and Flutter SDK on your machine
+- Make sure you have installed Google Chrome
+- Run command ```$ flutter run -d chrome```
+- Deployed version available at https://furniture-fabelio.surge.sh/#/, you can run it using any modern web browser
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
